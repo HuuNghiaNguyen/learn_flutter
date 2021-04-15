@@ -1,7 +1,16 @@
 # SIMPLE FACEBOOK LOGIN - FLUTTER APP
-![Flutter icon](./flutter.png  "Flutter is awesome, yeah!")
+<img src="./flutter.png" width="200" alt="Flutter icon" title="Flutter is awesome!">
 
-## Installation
-### 1. Install flutter
-### 2. Install package
-### 5. aaa
+## Preparation
+1. *Install Flutter*:<br>
+Follow instruction to get flutter installed: [Link](https://flutter.dev/docs/get-started/install)
+
+2. Include package:<br>
+We use **flutter_facebook_login** package to authenticate facebook login. To add this package to your project, simply run this code when you're in project folder:
+> flutter pub pub add flutter_facebook_login
+
+Or manually add these line in package's pubspec.yaml:
+> dependencies:
+  flutter_facebook_login: <span style="color:red">^3.0.0</span>
+
+3. 
