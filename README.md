@@ -2,7 +2,7 @@
 <img src="./flutter.png" width="200" alt="Flutter icon" title="Flutter is awesome!">
 
 ## Preparation
-1. *Install Flutter*:<br>
+1. Install Flutter:<br>
 Follow instruction to get flutter installed: [Link](https://flutter.dev/docs/get-started/install)
 
 2. Include package:<br>
@@ -10,7 +10,10 @@ We use **flutter_facebook_login** package to authenticate facebook login. To add
 > flutter pub pub add flutter_facebook_login
 
 Or manually add these line in package's pubspec.yaml:
-> dependencies:
-  flutter_facebook_login: <span style="color:red">^3.0.0</span>
+> dependencies:<br>
+>   flutter_facebook_login: **^3.0.0**<br>
+
+then run following command to get the package:
+> flutter pub get
 
 3. 
