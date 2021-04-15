@@ -41,12 +41,17 @@ Copy those sample code to your **main.dart** file: [Link](https://pub.dev/packag
 > implementation 'com.facebook.android:facebook-login:[8.1)'
  
 #### 5. Create *strings.xml* file in folder *android/app/src/main/res/values* with following contents:
-> <?xml version="1.0" encoding="utf-8"?>
-> <resources>
->     <string name="app_name">Your App Name here.</string>
->     <string name="facebook_app_id">000000000000</string>
->     <string name="fb_login_protocol_scheme">fb000000000000</string>
-> </resources>
+> \<?xml version="1.0" encoding="utf-8"?>
+> 
+> \<resources>
+> 
+>     \<string name="app_name">Your App Name here.</string>
+>     
+>     \<string name="facebook_app_id">000000000000</string>
+>     
+>     \<string name="fb_login_protocol_scheme">fb000000000000</string>
+>     
+> \</resources>
 
 **Note: Change *facebook_app_id* and *fb_login_protocol_scheme* with your own app value**
 
