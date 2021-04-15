@@ -1,7 +1,8 @@
 # SIMPLE FACEBOOK LOGIN - FLUTTER APP
 <img src="./flutter.png" width="200" alt="Flutter icon" title="Flutter is awesome!">
 
-______________________________________________
+
+
 ## Preparation
 #### 1. Install Flutter:<br>
 Follow instruction to get flutter installed: [Link](https://flutter.dev/docs/get-started/install)
@@ -21,11 +22,13 @@ then run following command to get the package:
 Add this code to your dart file:
 > import 'package:flutter_facebook_login/flutter_facebook_login.dart';
 
-______________________________________________
+
+
 ## Create main file
 Copy those sample code to your **main.dart** file: [Link](https://pub.dev/packages/flutter_facebook_login/example)
 
-______________________________________________
+
+
 ## Register your app with facebook:
 #### 1. Create an developer account and make an app in this [Link](https://developers.facebook.com/docs/facebook-login/android)
 #### 2. Select desired app from dropdown list:<br>
@@ -76,5 +79,6 @@ Run this code within **java/bin** folder to get app hash code:
 #### 8. Register your app with facebook:
 Open your facebook developer account and paste hash code to your app.
 
-______________________________________________
+
+
 ## Finally: compile your app and enjoy result!
