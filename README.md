@@ -82,7 +82,8 @@ Run this code within **java/bin** folder to get app hash code:
 **Note: Change *facebook_app_id* and *PATH_TO_OPENSSL_LIBRARY* with your own value**
 
 #### 8. Register your app with facebook:
-Open your facebook developer account and paste hash code to your app.
+Open your facebook developer account and paste hash code to your app.<br>
+<img src="./2.PNG" width="480" alt="Register app" title="Register app">
 
 
 
