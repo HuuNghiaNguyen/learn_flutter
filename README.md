@@ -45,11 +45,11 @@ Copy those sample code to your **main.dart** file: [Link](https://pub.dev/packag
 > 
 > \<resources>
 > 
->     \<string name="app_name">Your App Name here.</string>
+>     <string name="app_name">Your App Name here.</string>
 >     
->     \<string name="facebook_app_id">000000000000</string>
+>     <string name="facebook_app_id">000000000000</string>
 >     
->     \<string name="fb_login_protocol_scheme">fb000000000000</string>
+>     <string name="fb_login_protocol_scheme">fb000000000000</string>
 >     
 > \</resources>
 
